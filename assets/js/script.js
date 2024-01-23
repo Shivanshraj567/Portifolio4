@@ -38,7 +38,7 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
+    
     
     // <!-- emailjs to mail contact form data -->
 
