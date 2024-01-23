@@ -89,7 +89,7 @@
     },
     {
         "name": "Dynamic programming",
-        "icon": "https://img.icons8.com/2266EE/dynamic-programming"
+        "icon": "https://img.icons8.com/2266EE/programming"
     },
     {
         "name": "Heroku",
@@ -97,19 +97,19 @@
     },
     {
         "name": "UI/UX",
-        "icon": "https://img.icons8.com/2266EE/lunacy"
+        "icon": "https://img.icons8.com/2266EE/figma"
     },
     {
         "name": "Gen AI model",
-        "icon": "https://img.icons8.com/2266EE/chatgpt"
+        "icon": "https://img.icons8.com/ios-glyphs/30/chatgpt.png"
     },
     {
         "name": "AI",
-        "icon": "https://img.icons8.com/2266EE/tensorflow"
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
     },
     {
         "name": "Data science",
-        "icon":"https://img.icons8.com/2266EE/data-science"
+        "icon":"https://img.icons8.com/ios-filled/50/combo-chart--v1.png"
     },
     {
         "name": "GitHub",
